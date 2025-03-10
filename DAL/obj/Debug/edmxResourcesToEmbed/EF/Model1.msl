@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Janata_WifiModelStoreContainer" CdmEntityContainer="Janata_WifiEntities">
+    <EntitySetMapping Name="stock_market_data">
+      <EntityTypeMapping TypeName="Janata_WifiModel.stock_market_data">
+        <MappingFragment StoreEntitySet="stock_market_data">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="trade_code" ColumnName="trade_code" />
+          <ScalarProperty Name="high" ColumnName="high" />
+          <ScalarProperty Name="low" ColumnName="low" />
+          <ScalarProperty Name="open" ColumnName="open" />
+          <ScalarProperty Name="close" ColumnName="close" />
+          <ScalarProperty Name="volume" ColumnName="volume" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

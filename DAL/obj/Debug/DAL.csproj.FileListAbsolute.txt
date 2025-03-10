@@ -1,0 +1,12 @@
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\DAL.dll
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\DAL.pdb
+E:\Janata_Wifi\Back-end\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Janata_Wifi\Back-end\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Janata_Wifi\Back-end\DAL\obj\Debug\DAL.dll
+E:\Janata_Wifi\Back-end\DAL\obj\Debug\DAL.pdb
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\DAL.dll.config
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\EntityFramework.dll
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\EntityFramework.xml
+E:\Janata_Wifi\Back-end\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Janata_Wifi\Back-end\DAL\obj\Debug\DAL.csproj.Up2Date

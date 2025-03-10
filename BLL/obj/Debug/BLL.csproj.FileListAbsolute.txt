@@ -1,0 +1,14 @@
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\BLL.dll
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\BLL.pdb
+E:\Janata_Wifi\Back-end\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Janata_Wifi\Back-end\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Janata_Wifi\Back-end\BLL\obj\Debug\BLL.dll
+E:\Janata_Wifi\Back-end\BLL\obj\Debug\BLL.pdb
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\DAL.dll
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\DAL.pdb
+E:\Janata_Wifi\Back-end\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\AutoMapper.dll
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\DAL.dll.config
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\AutoMapper.xml
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\EntityFramework.dll
+E:\Janata_Wifi\Back-end\BLL\bin\Debug\EntityFramework.xml

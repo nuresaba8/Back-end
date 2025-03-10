@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Janata_WifiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="stock_market_data">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int16" Nullable="false" />
+    <Property Name="date" Type="DateTime" Precision="3" />
+    <Property Name="trade_code" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="high" Type="Single" />
+    <Property Name="low" Type="Single" />
+    <Property Name="open" Type="Single" />
+    <Property Name="close" Type="Single" />
+    <Property Name="volume" Type="Single" />
+  </EntityType>
+  <EntityContainer Name="Janata_WifiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="stock_market_data" EntityType="Self.stock_market_data" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Janata_Wifi\\Back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39272EFB-B803-4EB5-8F62-EC934E4D06CB}|Back-end\\Back-end.csproj|e:\\janata_wifi\\back-end\\back-end\\controllers\\stockmarketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39272EFB-B803-4EB5-8F62-EC934E4D06CB}|Back-end\\Back-end.csproj|solutionrelative:back-end\\controllers\\stockmarketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D7FC89-65AB-4A17-B4D9-DA4E4FE58ACA}|BLL\\BLL.csproj|E:\\Janata_Wifi\\Back-end\\bll\\dtos\\pathdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D7FC89-65AB-4A17-B4D9-DA4E4FE58ACA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\pathdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D7FC89-65AB-4A17-B4D9-DA4E4FE58ACA}|BLL\\BLL.csproj|E:\\Janata_Wifi\\Back-end\\bll\\dtos\\stockmarketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D7FC89-65AB-4A17-B4D9-DA4E4FE58ACA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\stockmarketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B950A-07A8-431C-8CB3-65BA90AE44DF}|DAL\\DAL.csproj|E:\\Janata_Wifi\\Back-end\\dal\\repos\\stockmarkerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9B950A-07A8-431C-8CB3-65BA90AE44DF}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\stockmarkerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D7FC89-65AB-4A17-B4D9-DA4E4FE58ACA}|BLL\\BLL.csproj|E:\\Janata_Wifi\\Back-end\\bll\\services\\stockmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D7FC89-65AB-4A17-B4D9-DA4E4FE58ACA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\stockmarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B950A-07A8-431C-8CB3-65BA90AE44DF}|DAL\\DAL.csproj|E:\\Janata_Wifi\\Back-end\\dal\\ef\\stock_market_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9B950A-07A8-431C-8CB3-65BA90AE44DF}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\stock_market_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9B950A-07A8-431C-8CB3-65BA90AE44DF}|DAL\\DAL.csproj|E:\\Janata_Wifi\\Back-end\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9B950A-07A8-431C-8CB3-65BA90AE44DF}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathDTO.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\BLL\\DTOs\\PathDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PathDTO.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\BLL\\DTOs\\PathDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PathDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:23:37.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stock_market_data.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\DAL\\EF\\stock_market_data.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\stock_market_data.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\DAL\\EF\\stock_market_data.cs",
+              "RelativeToolTip": "DAL\\EF\\stock_market_data.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:37:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockMarketDTO.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\BLL\\DTOs\\StockMarketDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StockMarketDTO.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\BLL\\DTOs\\StockMarketDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StockMarketDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:37:10.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:02:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockMarkeRepo.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\DAL\\Repos\\StockMarkeRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StockMarkeRepo.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\DAL\\Repos\\StockMarkeRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StockMarkeRepo.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:56:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockMarketService.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\BLL\\Services\\StockMarketService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StockMarketService.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\BLL\\Services\\StockMarketService.cs",
+              "RelativeToolTip": "BLL\\Services\\StockMarketService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv1oAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:56:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockMarketController.cs",
+              "DocumentMoniker": "E:\\Janata_Wifi\\Back-end\\Back-end\\Controllers\\StockMarketController.cs",
+              "RelativeDocumentMoniker": "Back-end\\Controllers\\StockMarketController.cs",
+              "ToolTip": "E:\\Janata_Wifi\\Back-end\\Back-end\\Controllers\\StockMarketController.cs",
+              "RelativeToolTip": "Back-end\\Controllers\\StockMarketController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:21:55.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
